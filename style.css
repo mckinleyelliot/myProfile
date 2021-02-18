@@ -55,6 +55,7 @@ main {
     background-color: #fff;
     background-image: url('./assets/elliotFishing.png');
     background-size: cover;
+    background-repeat: no-repeat;
     background-position: bottom;
 }
 @media (min-width: 768px) {
