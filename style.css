@@ -73,6 +73,10 @@ main {
 .jumbotron .container {
     max-width: 40rem;
 }
+.cardHeight {
+    height: 100px;
+    padding: 10px;
+}
 footer {
     padding-top: 3rem;
     padding-bottom: 3rem;
