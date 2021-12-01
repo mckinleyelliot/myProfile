@@ -48,7 +48,7 @@ main {
       font-size: 3.5rem;
     }
   }
-.jumbotron {
+.jumbotron1 {
     padding-top: 3rem;
     padding-bottom: 3rem;
     margin-bottom: 0;
@@ -78,8 +78,8 @@ main {
     padding: 10px;
 }
 footer {
-    padding-top: 3rem;
-    padding-bottom: 3rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 footer p {
     margin-bottom: .25rem;
